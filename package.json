@@ -1,0 +1,69 @@
+{
+  "_from": "wexy.db",
+  "_id": "wexy.db@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-xA/LZdr4tZYBqN/BX4eApPszOjqd5wonc1eNRUDy58KCdL1q3gJEHl/JiIPhluYc1ehjOvvkJPGm0csHrOvfNg==",
+  "_location": "/wexy.db",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "wexy.db",
+    "name": "wexy.db",
+    "escapedName": "wexy.db",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "npm",
+  "_shasum": "636036209fcd0d76190eb7653c192293cb09d554",
+  "_spec": "wexy.db",
+  "_where": "C:\\Users\\HP\\Desktop\\sj",
+  "author": {
+    "name": "westy2005"
+  },
+  "bugs": {
+    "url": "yok"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "deprecated": false,
+  "description": "Gözle okunabilir database modülü.",
+  "devDependencies": {
+    "@types/lodash": "^4.14.168",
+    "@types/node": "^14.14.34",
+    "eslint": "^7.22.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.22.1"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "homepage": "",
+  "keywords": [
+    "quick.db",
+    "database",
+    "discord.js",
+    "wexy.db",
+    "turkish",
+    "json"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "wexy.db",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wioenena-q/JS-WioDB.git"
+  },
+  "scripts": {
+    "test": "clear && nodemon test/test.js"
+  },
+  "types": "types/index.d.ts",
+  "version": "4.0.17"
+}
